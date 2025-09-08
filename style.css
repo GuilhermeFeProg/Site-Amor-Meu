@@ -130,6 +130,7 @@ body{
     background-clip: text;
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
+    cursor: pointer;
 }
 .controls i:nth-child(2),
 .controls i:nth-child(4){
@@ -171,6 +172,7 @@ body{
     8px 8px 8px #ff5e66,
     -3px -3px 15px #f0ecec;
     border-radius: 50%;
+    cursor: pointer;
 }
 .music-list{
     position: absolute;
