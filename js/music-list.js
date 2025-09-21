@@ -46,7 +46,7 @@ let allMusic = [
 
 {
     name: "Vai Cair Água",
-    artist: "Diego e Arnaldo part. Zé Neto e Cristiano",
+    artist: "Diego e Arnaldo p/Zé Neto e Cristiano",
     img: "music-8",
     src: "music-8"
 },
