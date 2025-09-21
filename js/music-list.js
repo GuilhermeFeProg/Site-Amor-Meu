@@ -37,4 +37,18 @@ let allMusic = [
     src: "music-6"
 },
 
+{
+    name: "Duas Metades",
+    artist: "Jorge & Mateus",
+    img: "music-7",
+    src: "music-7"
+},
+
+{
+    name: "Vai Cair Água",
+    artist: "Diego e Arnaldo part. Zé Neto e Cristiano",
+    img: "music-8",
+    src: "music-8"
+},
+
 ];
